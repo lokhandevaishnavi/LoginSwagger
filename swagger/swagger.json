@@ -1,0 +1,19 @@
+{
+    "swaggerDefinition": {
+      "info": {
+        "title": "User Login API",
+        "version": "1.0.0",
+        "description": "User Login API Documentation",
+        "contact": {
+          "name": "Vaishnavi"
+        },
+        "servers": [
+          "http://localhost:8080"
+        ]
+      }
+    },
+    "apis": [
+      "index.js",
+      "./routes/*.js"
+    ]
+  }
